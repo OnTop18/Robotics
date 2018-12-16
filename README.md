@@ -13,9 +13,9 @@
 Η τοποθέτηση της γραφίδας (στυλό) θα προσαρμοστεί στον σερβοκινητήρα και θα επικολληθεί στο τμήμα του άξονα Χ.
 
 Υλικά που θα χρησιμοποιηθούν:
-	Arduino kit
-	Servo motor (x1)
-	Nema 17 stepper motors (x2)
-	Axis stepper motor Driver (x2)
-	Expansion Board driver
-	Cables
+	Arduino kit,
+	Servo motor (x1),
+	Nema 17 stepper motors (x2),
+	Axis stepper motor Driver (x2),
+	Expansion Board driver,
+	Cables.
